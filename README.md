@@ -1,4 +1,4 @@
-# 365 Q&A Chatbot — Lokal
+# EJFA Q&A Chatbot — Lokal
 
 Instruksi singkat untuk menjalankan aplikasi demo ini (Streamlit + LangChain + Chroma).
 
