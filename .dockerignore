@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+.env
+streamlit.log
+.vscode/
+venv/
+.streamlit/
+.hf_cache/
